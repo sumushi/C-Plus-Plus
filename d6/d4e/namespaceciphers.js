@@ -1,5 +1,9 @@
 var namespaceciphers =
 [
+    [ "a1z26", null, [
+      [ "decrypt", "de/db6/a1z26__cipher_8cpp.html#a0a78954e96c862430904ee3e64623c38", null ],
+      [ "encrypt", "de/db6/a1z26__cipher_8cpp.html#a77a6b827a0b9c7aca2d705811459d744", null ]
+    ] ],
     [ "atbash", null, [
       [ "atbash_cipher", "dc/dfb/atbash__cipher_8cpp.html#ae633d82f248dffe0d2f6bdf82e56b7b5", null ]
     ] ],
@@ -13,6 +17,10 @@ var namespaceciphers =
       [ "decrypt", "d8/d76/morse__code_8cpp.html#a15c66ec8cf4cef0a35c50cbab86965dc", null ],
       [ "encrypt", "d8/d76/morse__code_8cpp.html#a0242e458904de8a242fcdaffe9e3ba1a", null ],
       [ "morse_to_char", "d8/d76/morse__code_8cpp.html#ac9f294b0dec08a4a11d477a32f9bd829", null ]
+    ] ],
+    [ "railfence", null, [
+      [ "decrypt", "dc/dbf/railfence__cipher_8cpp.html#ac4be9a9d6d1f9945d9d3228ecfaf6f1c", null ],
+      [ "encrypt", "dc/dbf/railfence__cipher_8cpp.html#a1249588d202bbfd4756669f915c5ee89", null ]
     ] ],
     [ "vigenere", null, [
       [ "decrypt", "dd/d12/vigenere__cipher_8cpp.html#a3cfc3f9b20a0f230a2fcefd31dc6848e", null ],
